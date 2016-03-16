@@ -1,6 +1,6 @@
 [user]
-	name = Chuan-Ju Wang
-	email = jerewang@gmail.com
+	name = fork
+	email = fork21342@gmail.com
 [color]
     status = auto
     diff = auto
@@ -10,7 +10,8 @@
 [merge]
     tool = vimdiff
 [core]
-	excludesfile = /Users/jerewang/.gitignore_global
+    insert
+	excludesfile = /home/fork0800092000/.gitignore_global
 [alias]
     bh = branch
     st = status
